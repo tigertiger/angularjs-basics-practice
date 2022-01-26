@@ -1,0 +1,1 @@
+[AngularJS Basics Tutorial](https://www.newthinktank.com/2016/02/angularjs-tutorial/)
